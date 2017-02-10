@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+    <title></title>
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    <div class="jd_layout">
+            <!--搜索框区域-->
+            <div class="jd_header">
+                    <div class="jd_header_box">
+                        <a href="#" class="icon_logo"></a>
+                        <form action="#">
+                            <span class="icon_search"></span>
+                            <input type="date" placeholder="100w 件商品等你来抢哦">
+                        </form>
+                        <a href="#" class="login">登录</a>
+                    </div>
+            </div>
+            <!--轮播图区域-->
+            <div class="jd_banner">
+                <ul>
+                    <li><a href="javascript;"><img src="images/l8.jpg" alt=""></a></li>
+                    <li><a href="javascript;"><img src="images/l1.jpg" alt=""></a></li>
+                    <li><a href="javascript;"><img src="images/l2.jpg" alt=""></a></li>
+                    <li><a href="javascript;"><img src="images/l3.jpg" alt=""></a></li>
+                    <li><a href="javascript;"><img src="images/l4.jpg" alt=""></a></li>
+                    <li><a href="javascript;"><img src="images/l5.jpg" alt=""></a></li>
+                    <li><a href="javascript;"><img src="images/l6.jpg" alt=""></a></li>
+                    <li><a href="javascript;"><img src="images/l7.jpg" alt=""></a></li>
+                    <li><a href="javascript;"><img src="images/l8.jpg" alt=""></a></li>
+                    <li><a href="javascript;"><img src="images/l1.jpg" alt=""></a></li>
+                </ul>
+                <ul>
+                    <li class="now"></li>
+                    <li ></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+            
+            <div class="jd_nav">
+                <ul>
+                    <li>
+                        <a href="">
+                        <img src="images/nav0.png" alt=""></a>
+                        <p>原装进口</p>
+                    </li>
+                    <li><a href=""><img src="images/nav1.png" alt=""></a>
+                        <p>传智播客</p>
+                    </li>
+                    <li><a href=""><img src="images/nav2.png" alt=""></a>
+                        <p>班长一般般</p>
+                    </li>
+                    <li><a href=""><img src="images/nav3.png" alt=""></a>
+                        <p>吕超很一般</p>
+                    </li>
+                    <li><a href=""><img src="images/nav4.png" alt=""></a>
+                        <p>老沈还可以</p>
+                    </li>
+                    <li><a href=""><img src="images/nav5.png" alt=""></a>
+                        <p>老段很黄</p>
+                    </li>
+                    <li><a href=""><img src="images/nav6.png" alt=""></a>
+                        <p>后面的最帅</p>
+                    </li>
+                    <li><a href=""><img src="images/nav7.png" alt=""></a>
+                        <p>黑马程序员</p>
+                    </li>
+                </ul>
+            </div>
+            <div class="jd_sk">
+                    <div class="jd_sk_title">
+                            <div class="jd_sk_title_left">
+                                    <span class="icon_sk f_left m_left"></span>
+                                    <span class="text f_left m_left">京东秒杀</span>
+                                    <div class="timer f_left m_left">
+                                        <span>0</span>
+                                        <span>0</span>
+                                        <span>:</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                        <span>:</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                            </div>
+                            <div class="jd_sk_title_right f_right">
+                                  <span>更多</span>
+                                  <span class="icon_more"></span>
+                            </div>
+                    </div>
+                    <div class="jd_sk_conn">
+                        <ul>
+                            <li>
+                                <a href=""><img src="uploads/seckill_1.jpg" alt=""></a>
+                                <p>&yen;999.99</p>
+                                <p>&yen;99</p>
+                            </li>
+                            <li>
+                                <a href=""><img src="uploads/seckill_2.jpg" alt=""></a>
+                                <p>&yen;999.99</p>
+                                <p>&yen;99</p>
+                            </li>
+                            <li>
+                                <a href=""><img src="uploads/seckill_3.jpg" alt=""></a>
+                                <p>&yen;999.99</p>
+                                <p>&yen;99</p>
+                            </li>
+                        </ul>
+
+                    </div>
+            </div>
+
+            <!--主区域-->
+            <div class="major">
+                <img src="images/banner_bg.jpg" alt="">
+                <ul>
+                    <li><a href=""><img src="uploads/banner_1.jpg" alt=""></a></li>
+                    <li><a href=""><img src="uploads/banner_2.jpg" alt=""></a></li>
+                    <li><a href=""><img src="uploads/banner_3.jpg" alt=""></a></li>
+                </ul>
+            </div>
+
+            <!--
+                京东商品
+            -->
+            <div class="jd_shop">
+                <ul class="three">
+                    <li><a href=""><img src="uploads/major_1.jpg" alt=""></a></li>
+                    <li><a href=""><img src="uploads/major_2.jpg" alt=""></a></li>
+                    <li><a href=""><img src="uploads/major_3.jpg" alt=""></a></li>
+                </ul>
+                <ul class="two">
+                    <li><a href=""><img src="uploads/major_4.jpg" alt=""></a></li>
+                    <li><a href=""><img src="uploads/major_5.jpg" alt=""></a></li>
+                </ul>
+                <ul class="two">
+                    <li><a href=""><img src="uploads/major_6.jpg" alt=""></a></li>
+                    <li><a href=""><img src="uploads/major_7.jpg" alt=""></a></li>
+                </ul>
+            </div>
+            <div class="advert">
+                 <img src="images/advert_1.jpg" alt="">
+            </div>
+    </div>
+    <!--这个是提炼的公共文件.-->
+    <script src="js/common.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>
